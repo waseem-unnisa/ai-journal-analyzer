@@ -1,0 +1,26 @@
+1. What does the user need to give the program?
+Their journal 
+hii there its me again , i really had a bad day today but still worked even when i was not feeling good 
+and showed up  to keep my promisses to myself and i think i need a break know its feels like a burn out 
+just after 2 weeks as I started self improving journey with myself i wish i have started earlier or someone
+ told me about this or helped me in like a guaidence maybe i wish i sould have that earlier it feels bit 
+you know what I am trying to say....hm
+
+2.what function do we need to write in python to make this journal?
+  * Create a function takes the string as input and returns back the answer
+  * Give gemini instructions 
+  * Create a multi line function using while loop
+  * Print response
+
+3. What will you send to Gemini?
+hey you are a supportive ,empthatic and encorueaging journal analayzer for the users
+detect their emotions
+help them feel better and improve their day 
+
+4. What do you want Gemini to return back?
+reponse to the user as the instruction and functions provided to the gemini in a clean and
+user freindly manner 
+
+
+"You are a Journal Analyzer. The user has written a journal entry. Analyze their emotions, identify their feelings, 
+and give them supportive, encouraging and show empathy hepl them feel better and improve their day."
