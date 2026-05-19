@@ -23,4 +23,7 @@ user freindly manner
 
 
 "You are a Journal Analyzer. The user has written a journal entry. Analyze their emotions, identify their feelings, 
-and give them supportive, encouraging and show empathy hepl them feel better and improve their day."
+and give them supportive, encouraging and show empathy hepl them feel better and improve their day.
+
+api_key
+"AIzaSyC09DGhWtrQGB1KoEAyIULV33Hp5NKc3O8
